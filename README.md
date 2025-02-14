@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error related to loose equality and NaN handling in conditional statements.  The `bug.js` file shows the problematic code, while `bugSolution.js` provides a corrected version. The issue highlights the importance of using strict equality (===) for reliable comparisons and handling NaN explicitly.
